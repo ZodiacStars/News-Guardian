@@ -39,6 +39,7 @@ var NewsGuardianConfig = {
         "beforeitsnews.com",
         "beingliberal.tumblr.com",
         "bettybowers.com", // satire
+        "believeitornot.me",
         "bigamericannews.com",
         "bigpzone.com",
         "bipartisanreport.com",
@@ -401,6 +402,7 @@ var NewsGuardianConfig = {
         "thetruthseeker.co.uk",
         "theunhivedmind.com",
         "theuspatriot.com",
+        "thezodiacstars.com",
         "tomatobubble.com",
         "topekasnews.com",
         "topinfopost.com",
